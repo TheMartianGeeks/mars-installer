@@ -1,7 +1,7 @@
 {
   "name": "mars/installer",
   "description": "Mars application installer.",
-  "keywords": ["Marsphp", "Mars Framework"],
+  "keywords": ["Mars php", "Mars Framework"],
   "license": "MIT",
   "authors": [
     {
