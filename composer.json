@@ -1,5 +1,5 @@
 {
-  "name": "marsphp/installer",
+  "name": "mars/installer",
   "description": "Marsphp application installer.",
   "keywords": ["Marsphp", "Mars Framework"],
   "license": "MIT",
