@@ -124,7 +124,7 @@ class NewCommand extends Command
                 $filename = 'latest-develop.zip';
                 break;
             case 'master':
-                $filename = 'master.zip';
+                $filename = 'latest.zip';
                 break;
         }
 
