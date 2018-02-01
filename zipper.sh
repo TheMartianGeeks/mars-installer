@@ -1,5 +1,5 @@
 #!/usr/bin/env bash
-wget https://github.com/marsphp/mars/archive/master.zip
+wget https://github.com/marsphp/mars/archive/latest.zip
 unzip master.zip -d working
 cd working/marsphp-master
 composer install

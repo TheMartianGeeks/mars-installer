@@ -1,6 +1,6 @@
 {
-  "name": "marsphp/installer",
-  "description": "Marsphp application installer.",
+  "name": "mars/installer",
+  "description": "Mars application installer.",
   "keywords": ["Marsphp", "Mars Framework"],
   "license": "MIT",
   "authors": [
@@ -26,6 +26,6 @@
     "symfony/process": "~3.0|~4.0"
   },
   "bin": [
-    "marsphp"
+    "mars"
   ]
 }
